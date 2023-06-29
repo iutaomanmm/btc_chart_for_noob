@@ -1,7 +1,7 @@
 
 [project]
 name = "gpt-engineer"
-version = "0.0.4"
+version = "0.0.9"
 description = "Specify what you want it to build, the AI asks for clarification, and then builds it."
 readme = "README.md"
 requires-python = ">=3"
